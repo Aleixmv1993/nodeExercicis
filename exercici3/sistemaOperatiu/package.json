@@ -1,0 +1,11 @@
+{
+  "name": "Sistema Operatiu",
+  "version": "1.0.0",
+  "description": "Sistema Operatiu Linux",
+  "main": "os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleix Malaret",
+  "license": "ISC"
+}

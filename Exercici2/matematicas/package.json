@@ -1,0 +1,11 @@
+{
+  "name": "Mates",
+  "version": "1.0.0",
+  "description": "mates",
+  "main": "matematica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleix Malaret",
+  "license": "ISC"
+}
